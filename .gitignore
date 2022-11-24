@@ -1,3 +1,4 @@
 # Folders #
 ###########
 merge_data/*
+data/crime_rate_2010_2021.parquet
