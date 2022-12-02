@@ -3,3 +3,4 @@
 merge_data/*
 data/crime_rate_2010_2021.parquet
 data/crime_rate_2010_2021.csv
+crime_data_2016_21.csv
